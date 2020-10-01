@@ -20,3 +20,8 @@ First, create an agent on DialogFlow.
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+
+## Changes
+Increased Functinality of the ChatBot. Now it can answer more number of questions of the user than before.
+Language Selection added with suitable fonts
+Can help the user prvoide their solutions by directing them to teh desired web links which might or not help the user solve their query.  
